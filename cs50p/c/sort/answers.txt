@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: On reveresed50000.txt, time was 5 seconds, and on the sorted list, "sorted50000.txt," it took 0.5 seconds.
+
+sort2 uses: Merge Sort
+
+How do you know?: On reversed50000.txt, it took .6 seconds, and it took 0.5 seconds on the sorted list.
+
+sort3 uses: Selection Sort
+
+How do you know?: On the reversed list it took 2.7 seconds, and it took 2.4 seconds.
